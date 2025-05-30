@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently learning 
+I'm currently pursuing my B.Tech in Computer Science and Engineering with a specialization in Artificial Intelligence and Machine Learning at Sandip University.
 
 
 ## 🌐 Socials:
